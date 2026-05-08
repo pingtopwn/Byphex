@@ -21,6 +21,12 @@ Byphex automates common authorization bypass and path normalization tricks used 
 
 ---
 
+## Disclaimer
+
+This tool is intended for authorized security testing and educational purposes only.
+
+---
+
 # Features
 
 - HTTP Method Testing
