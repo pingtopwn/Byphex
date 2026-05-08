@@ -235,8 +235,7 @@ Examples:
 Example markdown:
 
 ```markdown
-<img width="1516" height="579" alt="Screenshot 2026-05-08 120233" src="https://github.com/user-attachments/assets/9dd33e5f-e316-4ec8-ad6e-55cc28a7aa25" />
-
+![401-response](401_405.png)
 ```
 
 ---
