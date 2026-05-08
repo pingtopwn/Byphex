@@ -235,8 +235,8 @@ Examples:
 Example markdown:
 
 ```markdown
-![Example](<img width="1516" height="579" alt="Screenshot 2026-05-08 120233" src="https://github.com/user-attachments/assets/fd504d32-90e6-4e1e-bfc4-727a9e947f91" />
-)
+<img width="1516" height="579" alt="Screenshot 2026-05-08 120233" src="https://github.com/user-attachments/assets/9dd33e5f-e316-4ec8-ad6e-55cc28a7aa25" />
+
 ```
 
 ---
