@@ -1,4 +1,4 @@
-<img width="1670" height="256" alt="Screenshot 2026-05-08 115836" src="https://github.com/user-attachments/assets/48f5f4d2-bd33-4b23-8f3c-597022801224" /># Byphex
+# Byphex
 
 ```
 ██████╗ ██╗   ██╗██████╗ ██╗  ██╗███████╗██╗  ██╗
@@ -223,10 +223,6 @@ This allows direct copy-paste reproduction.
 
 # Screenshots
 
-<img width="1516" height="579" alt="Screenshot 2026-05-08 120233" src="https://github.com/user-attachments/assets/c5ea78c7-fc65-4dea-96f3-b4aa91ddef42" />
-
-<img width="1670" height="256" alt="Screenshot 2026-05-08 115836" src="https://github.com/user-attachments/assets/7023517b-de5d-4f0e-abf7-4a5ba5ca68d1" />
-
 Examples:
 
 - 200 bypass response
@@ -239,7 +235,8 @@ Examples:
 Example markdown:
 
 ```markdown
-![Example](screenshots/example.png)
+![Example](<img width="1516" height="579" alt="Screenshot 2026-05-08 120233" src="https://github.com/user-attachments/assets/fd504d32-90e6-4e1e-bfc4-727a9e947f91" />
+)
 ```
 
 ---
