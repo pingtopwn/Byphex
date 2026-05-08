@@ -1,4 +1,5 @@
 # No external dependencies required
 # Uses only Python standard library
 
-python>=3.8
+- Python 3.8+
+- curl
