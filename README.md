@@ -237,6 +237,8 @@ Example markdown:
 
 ![401-response](401_and_405.png)
 
+
+![200-response](200_Status_Code.png)
 ---
 
 # Example Testing Targets
