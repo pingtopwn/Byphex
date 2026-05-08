@@ -234,9 +234,8 @@ Examples:
 
 Example markdown:
 
-```markdown
+
 ![401-response](401_and_405.png)
-```
 
 ---
 
