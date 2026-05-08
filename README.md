@@ -52,7 +52,7 @@ git clone https://github.com/pingtopwn/Byphex.git
 Enter directory:
 
 ```bash
-cd byphex
+cd Byphex
 ```
 
 Make executable:
